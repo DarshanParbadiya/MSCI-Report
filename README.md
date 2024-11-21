@@ -1,1 +1,1 @@
-## Python Program for generating MSCI Report Automatically 
+Python Program for generating MSCI Report Automatically 
